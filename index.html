@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bộ đề trắc nghiệm pháp luật</title>
+<style>
+:root{--bg:#f3f6fb;--card:#fff;--ink:#172033;--muted:#667085;--line:#e3e8f0;--blue:#2457d6;--blue2:#eaf0ff;--green:#16834a;--greenbg:#e4f7eb;--red:#c03535;--redbg:#ffebeb;--amber:#946200;--amberbg:#fff6dd}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",Arial,sans-serif}header{background:#142b55;color:white;padding:24px 18px}header .wrap,main{max-width:980px;margin:auto}h1{font-size:clamp(23px,4vw,32px);margin:0 0 5px}header p{margin:0;color:#dbe6ff}main{padding:22px 16px 50px}.toolbar,.panel,.question-card,.result-card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;margin-bottom:16px;box-shadow:0 4px 16px #15294b0a}.toolbar{display:flex;gap:12px;align-items:center;flex-wrap:wrap}.toolbar label{font-weight:650}.toolbar select,.toolbar input,button{font:inherit;border-radius:10px;padding:10px 14px;border:1px solid var(--line);background:white;color:var(--ink)}.toolbar input{width:100px}button{cursor:pointer;font-weight:650}button.primary{background:var(--blue);border-color:var(--blue);color:white}button:disabled{opacity:.45;cursor:not-allowed}.stats{display:flex;gap:12px;flex-wrap:wrap;margin-left:auto;color:var(--muted);font-size:14px}.stat{background:#f5f7fb;padding:7px 10px;border-radius:9px}.qtop{display:flex;justify-content:space-between;gap:12px;align-items:center;color:var(--muted);font-size:14px}.qnum{font-weight:750;color:var(--blue)}.timer{font-weight:800;color:#b42318;background:#fff0ed;padding:7px 12px;border-radius:9px;font-variant-numeric:tabular-nums}.timer.warning{background:#b42318;color:white}.question{font-size:18px;font-weight:700;margin:15px 0 18px;white-space:pre-wrap}.options{display:grid;gap:10px}.option{display:flex;gap:12px;align-items:flex-start;text-align:left;width:100%;padding:13px 14px;border:1.5px solid var(--line);border-radius:12px;background:#fff;line-height:1.5;font-weight:450}.option .letter{flex:0 0 28px;height:28px;display:grid;place-items:center;border-radius:8px;background:#f0f3f8;font-weight:750}.option.selected{border-color:var(--blue);background:var(--blue2)}.option.selected .letter{background:var(--blue);color:white}.option.correct{border:2px solid var(--green);background:var(--greenbg);color:#145b36}.option.correct .letter{background:var(--green);color:white}.option.wrong{border:2px solid var(--red);background:var(--redbg);color:#8f2525}.option.wrong .letter{background:var(--red);color:white}.feedback{margin-top:16px;padding:13px 15px;border-radius:12px;background:#f5f7fb;white-space:pre-wrap}.feedback.good{background:var(--greenbg);color:#145b36}.feedback.bad{background:var(--redbg);color:#8f2525}.feedback.unknown{background:var(--amberbg);color:#745000}.actions{display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:18px}.actions .right{display:flex;gap:9px}.hidden{display:none!important}.muted{color:var(--muted)}.small{font-size:13px}.intro h2,.result-card h2{margin:0 0 8px}.intro p{margin:6px 0}.result-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:15px 0}.result-box{background:#f5f7fb;padding:14px;border-radius:12px}.result-box strong{display:block;font-size:25px}.review-item{border:1px solid var(--line);border-left:6px solid #98a2b3;border-radius:11px;padding:13px;margin:10px 0;background:white}.review-item.review-correct{border-left-color:var(--green);background:var(--greenbg)}.review-item.review-wrong{border-left-color:var(--red);background:var(--redbg)}.review-item.review-unknown{border-left-color:#d69e21;background:var(--amberbg)}.review-item.review-blank{border-left-color:#98a2b3;background:#f8fafc}.review-item p{margin:4px 0}.tag{display:inline-block;padding:3px 8px;border-radius:99px;font-size:12px;font-weight:700;background:#edf1f7;color:#475467}.tag.ok{background:#c9efd7;color:var(--green)}.tag.bad{background:#ffd2d2;color:var(--red)}.tag.unknown{background:var(--amberbg);color:var(--amber)}
+@media(max-width:600px){main{padding:14px 10px 35px}.toolbar,.panel,.question-card,.result-card{padding:14px}.stats{margin-left:0}.question{font-size:17px}.result-grid{grid-template-columns:1fr 1fr}}
+</style></head>
+<body>
+<header><div class="wrap"><h1>BỘ ĐỀ TRẮC NGHIỆM PHÁP LUẬT</h1><p>5 bộ đề riêng lẻ hoặc gộp thành một đề thi 50 câu · Có đồng hồ đếm ngược</p></div></header>
+<main>
+<section class="panel intro" id="intro"><h2>Bắt đầu làm bài</h2><p>Đồng chí có thể chọn từng bộ đề 10 câu hoặc chọn chế độ tổng hợp cả 5 bộ thành một đề 50 câu.</p><p class="small muted">Câu chưa đủ căn cứ xác minh đáp án sẽ được đánh dấu riêng và không tính vào điểm. Khi nộp bài, câu đúng hiển thị màu xanh và câu sai hiển thị màu đỏ.</p></section>
+<section class="toolbar">
+<label for="setSelect">Chọn chế độ:</label><select id="setSelect"><option value="all">Gộp cả 5 bộ đề – 50 câu</option></select>
+<label for="timeLimit">Thời gian (phút):</label><input id="timeLimit" type="number" min="1" max="300" value="60" inputmode="numeric" title="Nhập thời gian từ 1 đến 300 phút">
+<button class="primary" id="startBtn">Bắt đầu làm bài</button>
+<div class="stats"><span class="stat">5 bộ đề · 50 câu</span></div>
+</section>
+<section id="quiz" class="hidden"><div class="panel"><div class="qtop"><span id="setTitle"></span><span id="counter" class="qnum"></span><span id="timer" class="timer">60:00</span></div><div class="progress"><div id="progressBar"></div></div></div>
+<div class="question-card"><div class="question" id="questionText"></div><div class="options" id="options"></div><div id="feedback" class="feedback hidden"></div><div class="actions"><button id="prevBtn">← Câu trước</button><div class="right"><button id="nextBtn" class="primary">Câu tiếp theo →</button><button id="finishBtn" class="primary">Nộp bài</button></div></div></div></section>
+<section id="result" class="result-card hidden"></section>
+</main>
+<script>
+let bank=[],currentSet=null,index=0,answers={},submitted=false,timerId=null,timeLeft=0;
+const $=id=>document.getElementById(id);
+async function init(){try{const r=await fetch('questions.json');if(!r.ok)throw new Error('Không tải được questions.json');bank=await r.json();const sel=$('setSelect');bank.sets.forEach((s,i)=>{const o=document.createElement('option');o.value=String(i);o.textContent=`${s.title} – ${s.questions.length} câu`;sel.appendChild(o)});}catch(e){$('intro').innerHTML='<h2>Không tải được dữ liệu câu hỏi</h2><p>Hãy mở trang bằng Live Server trong VS Code hoặc tải cả thư mục dự án lên GitHub Pages. Không mở trực tiếp index.html bằng file://.</p><p class="small">'+e.message+'</p>';}}
+function start(){clearInterval(timerId);const selected=$('setSelect').value;if(selected==='all'){const questions=bank.sets.flatMap(s=>s.questions.map(q=>({...q,source_set:s.title})));currentSet={title:'ĐỀ TỔNG HỢP 50 CÂU',questions};}else{const s=bank.sets[Number(selected)];currentSet={title:s.title,questions:s.questions.map(q=>({...q,source_set:s.title}))};}
+index=0;answers={};submitted=false;const minutes=Math.max(1,Math.min(300,Number($('timeLimit').value)||60));$('timeLimit').value=minutes;timeLeft=minutes*60;$('intro').classList.add('hidden');$('result').classList.add('hidden');$('quiz').classList.remove('hidden');$('setTitle').textContent=currentSet.title;updateTimer();render();timerId=setInterval(()=>{if(submitted)return;timeLeft--;updateTimer();if(timeLeft<=0){clearInterval(timerId);finish(true);}},1000);}
+function updateTimer(){const m=Math.floor(timeLeft/60),s=timeLeft%60;$('timer').textContent=`${String(m).padStart(2,'0')}:${String(s).padStart(2,'0')}`;$('timer').classList.toggle('warning',timeLeft<=300);}
+function render(){const q=currentSet.questions[index];$('counter').textContent=`Câu ${index+1}/${currentSet.questions.length}`;$('progressBar').style.width=((index+1)/currentSet.questions.length*100)+'%';$('questionText').textContent=q.question;const box=$('options');box.innerHTML='';Object.entries(q.options).forEach(([key,opt])=>{const b=document.createElement('button');b.className='option';b.type='button';if(answers[index]===key)b.classList.add('selected');if(submitted&&q.correct_answer&&key===q.correct_answer)b.classList.add('correct');if(submitted&&q.correct_answer&&answers[index]===key&&key!==q.correct_answer)b.classList.add('wrong');const letter=document.createElement('span');letter.className='letter';letter.textContent=key;const txt=document.createElement('span');txt.textContent=opt.text;b.append(letter,txt);b.disabled=submitted;b.addEventListener('click',()=>{if(!submitted){answers[index]=key;render();}});box.appendChild(b);});const fb=$('feedback');fb.className='feedback hidden';fb.textContent='';if(submitted){fb.classList.remove('hidden');if(q.correct_answer){fb.classList.add(answers[index]===q.correct_answer?'good':'bad');fb.textContent=(answers[index]===q.correct_answer?'Chính xác! ':'Chưa chính xác. ')+`Đáp án đúng: ${q.correct_answer}.\n\n`+(q.explanation||'');}else{fb.classList.add('unknown');fb.textContent='Câu này chưa đủ căn cứ xác minh đáp án trong tài liệu. Câu không được tính vào điểm.\n\n'+(q.explanation||'');}}$('prevBtn').disabled=index===0;$('nextBtn').disabled=index===currentSet.questions.length-1;$('finishBtn').textContent=submitted?'Xem kết quả':'Nộp bài';}
+
+// Xáo trộn một mảng theo thứ tự ngẫu nhiên
+function shuffleArray(arr) {
+    const a = [...arr];
+    for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+}
+
+// Đảo thứ tự câu hỏi và các phương án, đồng thời giữ nguyên đáp án đã chọn
+function shuffleQuestionsAndOptions() {
+    const records = currentSet.questions.map((q, i) => {
+        const selectedOption = answers[i] ? q.options[answers[i]] : null;
+        const correctOption = q.correct_answer ? q.options[q.correct_answer] : null;
+
+        const shuffledOptions = shuffleArray(Object.values(q.options));
+        const letters = ['A', 'B', 'C', 'D'];
+        const options = {};
+
+        shuffledOptions.forEach((option, j) => {
+            options[letters[j]] = option;
+        });
+
+        const newCorrect = correctOption
+            ? letters.find(letter => options[letter] === correctOption) || null
+            : null;
+
+        const newSelected = selectedOption
+            ? letters.find(letter => options[letter] === selectedOption) || null
+            : null;
+
+        return {
+            question: { ...q, options, correct_answer: newCorrect },
+            selected: newSelected
+        };
+    });
+
+    const shuffledRecords = shuffleArray(records);
+    currentSet.questions = shuffledRecords.map(record => record.question);
+
+    answers = {};
+    shuffledRecords.forEach((record, i) => {
+        if (record.selected) answers[i] = record.selected;
+    });
+}
+
+function finish(auto=false){if(!submitted){shuffleQuestionsAndOptions();index=0;submitted=true;clearInterval(timerId);render();}const qs=currentSet.questions;let correct=0,wrong=0,unknown=0,unanswered=0;qs.forEach((q,i)=>{if(!answers[i])unanswered++;if(!q.correct_answer)unknown++;else if(answers[i]===q.correct_answer)correct++;else wrong++;});const eligible=qs.filter(q=>q.correct_answer).length,pct=eligible?Math.round(correct/eligible*100):0;$('quiz').classList.add('hidden');const res=$('result');res.classList.remove('hidden');res.innerHTML=`<h2>Kết quả ${currentSet.title}</h2>${auto?'<p class="tag bad">Đã tự động nộp bài vì hết thời gian</p>':''}<div class="result-grid"><div class="result-box"><strong>${correct}</strong><span>Trả lời đúng</span></div><div class="result-box"><strong>${wrong}</strong><span>Sai hoặc bỏ trống (câu đã xác minh)</span></div><div class="result-box"><strong>${pct}%</strong><span>Tỷ lệ đúng trên câu đã xác minh</span></div><div class="result-box"><strong>${unknown}</strong><span>Câu chưa xác minh</span></div><div class="result-box"><strong>${unanswered}</strong><span>Câu bỏ trống</span></div><div class="result-box"><strong>${eligible}</strong><span>Câu được tính điểm</span></div></div><p class="small muted">Câu đúng được tô xanh, câu chọn sai được tô đỏ. Câu chưa xác minh không được tính đúng hoặc sai. Thời gian còn lại: ${Math.floor(timeLeft/60)} phút ${timeLeft%60} giây.</p><h3>Đáp án và giải thích</h3><div id="review"></div><div class="actions"><button id="backBtn">← Xem lại câu hỏi</button><div class="right"><button id="againBtn" class="primary">Làm lại bộ đề</button><button id="changeBtn">Chọn chế độ khác</button></div></div>`;
+const review=$('review');qs.forEach((q,i)=>{const d=document.createElement('div');const isUnknown=!q.correct_answer;const isBlank=!answers[i]&&!isUnknown;const isCorrect=!isUnknown&&!isBlank&&answers[i]===q.correct_answer;const isWrong=!isUnknown&&!isBlank&&!isCorrect;d.className='review-item '+(isUnknown?'review-unknown':isCorrect?'review-correct':isWrong?'review-wrong':'review-blank');const status=isUnknown?'<span class="tag unknown">Chưa xác minh</span>':isBlank?'<span class="tag">Bỏ trống</span>':`<span class="tag ${isCorrect?'ok':'bad'}">${isCorrect?'Đúng':'Sai'} · Đáp án: ${q.correct_answer}</span>`;const chosen=answers[i]||'Chưa chọn';d.innerHTML=`<p><b>Câu ${i+1}.</b> ${status} <span class="tag">Bạn chọn: ${chosen}</span></p><p class="small muted">${q.source_set||''}</p>`;const question=document.createElement('p');question.textContent=q.question;question.style.fontWeight='650';d.appendChild(question);const p=document.createElement('p');p.textContent=q.explanation||'';d.appendChild(p);review.appendChild(d)});
+$('backBtn').onclick=()=>{$('result').classList.add('hidden');$('quiz').classList.remove('hidden');render()};$('againBtn').onclick=start;$('changeBtn').onclick=()=>{$('result').classList.add('hidden');$('intro').classList.remove('hidden');$('quiz').classList.add('hidden')};}
+$('startBtn').addEventListener('click',start);$('prevBtn').addEventListener('click',()=>{if(index>0){index--;render()}});$('nextBtn').addEventListener('click',()=>{if(index<currentSet.questions.length-1){index++;render()}});$('finishBtn').addEventListener('click',()=>{if(submitted){$('quiz').classList.add('hidden');$('result').classList.remove('hidden')}else finish(false)});init();
+</script></body></html>

@@ -1,0 +1,1343 @@
+{
+  "source_file": "De_thi_PL_Dap_an_to_ne_vang_de_in.docx",
+  "title": "Bộ đề trắc nghiệm pháp luật",
+  "total_sets": 5,
+  "total_questions": 50,
+  "answer_key_note": "Bảng đáp án cuối tài liệu là căn cứ trạng thái. Ký hiệu ? nghĩa là chưa đủ căn cứ xác minh; không gán đáp án đúng.",
+  "sets": [
+    {
+      "set": 1,
+      "title": "BỘ ĐỀ SỐ 01",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Theo Luật Xử lý vi phạm hành chính năm 2012 (đã được sửa đổi, bổ sung), người từ đủ 14 tuổi đến dưới 16 tuổi bị xử phạt vi phạm hành chính trong trường hợp nào?",
+          "options": {
+            "A": {
+              "text": "Bị xử phạt về mọi hành vi vi phạm hành chính do mình gây ra.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Bị xử phạt vi phạm hành chính về vi phạm hành chính do cố ý.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Chỉ bị xử phạt khi hành vi vi phạm hành chính gây hậu quả nghiêm trọng.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Không bị xử phạt vi phạm hành chính trong bất kỳ trường hợp nào, chỉ bị nhắc nhở.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Điểm a khoản 1 Điều 5: nhóm tuổi này bị xử phạt đối với vi phạm do cố ý. Đây là trách nhiệm hành chính, cần phân biệt với trách nhiệm hình sự.\nNguồn [XLVPHC]: Luật Xử lý vi phạm hành chính, bản hợp nhất 63/VBHN-VPQH năm 2025; Điều 5 và Điều 23. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 2,
+          "question": "Theo Công văn số 563/CT-TH của Phòng Chính trị, khi phát hiện học viên đăng video vi phạm quy định của Học viện lên tài khoản mạng xã hội, chỉ huy cần yêu cầu xử lý như thế nào?",
+          "options": {
+            "A": {
+              "text": "Chờ cơ quan cấp trên yêu cầu mới tiến hành xử lý.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Cho phép giữ bài nếu chủ tài khoản cam kết không đăng thêm.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ nhắc nhở nếu video đã được nhiều người chia sẻ.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Yêu cầu người đăng tải nhanh chóng gỡ bỏ nội dung vi phạm theo quy định của đơn vị.",
+              "highlight": null
+            }
+          },
+          "correct_answer":"D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Văn bản cần đối chiếu: 563/CT-TH. Chưa có bản gốc trong tài liệu đính kèm và chưa có tìm được bản công khai xác thực.",
+          "answer_note": "Phương án đúng theo bảng."
+        },
+        {
+          "number": 3,
+          "question": "Anh B biết rõ một ngân hàng thương mại đang hoạt động bình thường nhưng vẫn cố ý đăng thông tin bịa đặt trên mạng xã hội rằng ngân hàng này đã phá sản, khiến nhiều người hoang mang. Theo Luật An ninh mạng năm 2025, nhận định nào sau đây là đúng về hành vi của anh B?",
+          "options": {
+            "A": {
+              "text": "Là hành vi đăng tải thông tin bịa đặt, sai sự thật trong lĩnh vực ngân hàng, bị pháp luật nghiêm cấm.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Không vi phạm pháp luật vì đây là thông tin đăng trên tài khoản mạng xã hội cá nhân.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ vi phạm quy định của nền tảng mạng xã hội, không vi phạm pháp luật Việt Nam.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Chỉ bị coi là vi phạm pháp luật khi ngân hàng chứng minh được thiệt hại về tài sản.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Điểm d khoản 1 Điều 7 cấm thông tin bịa đặt về ngân hàng.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 4,
+          "question": "Ông X chết không để lại di chúc. Sau khi thanh toán các nghĩa vụ tài sản, di sản còn lại để chia thừa kế là 900 triệu đồng. Những người thuộc hàng thừa kế thứ nhất có quyền hưởng di sản chỉ gồm bà Y (vợ ông X) và hai người con đẻ. Theo Bộ luật Dân sự năm 2015, mỗi người được hưởng bao nhiêu?",
+          "options": {
+            "A": {
+              "text": "Bà Y nhận 500 triệu đồng, mỗi người con nhận 200 triệu đồng.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Bà Y nhận 600 triệu đồng, mỗi người con nhận 150 triệu đồng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Bà Y và mỗi người con đều nhận 300 triệu đồng.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Bà Y nhận 450 triệu đồng, mỗi người con nhận 225 triệu đồng.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Điểm a khoản 1 và khoản 2 Điều 651: ba người cùng hàng thừa kế hưởng bằng nhau. 900 triệu : 3 = 300 triệu đồng/người; đề đã xác định đây là di sản còn lại sau nghĩa vụ tài sản.\nNguồn [DS]: Bộ luật Dân sự số 91/2015/QH13; Điều 22, 466, 468 và 651. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 5,
+          "question": "Theo khoản 1 Điều 13 Luật Sĩ quan Quân đội nhân dân Việt Nam năm 1999 (đã được sửa đổi, bổ sung), hạn tuổi cao nhất của sĩ quan phục vụ tại ngũ có cấp bậc quân hàm Đại tá là bao nhiêu tuổi?",
+          "options": {
+            "A": {
+              "text": "60 tuổi.",
+              "highlight": null
+            },
+            "B": {
+              "text": "58 tuổi.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "55 tuổi.",
+              "highlight": null
+            },
+            "D": {
+              "text": "57 tuổi.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Khoản 1 Điều 13 sau sửa đổi năm 2024: Đại tá có hạn tuổi phục vụ tại ngũ cao nhất là 58. Phân biệt với kéo dài tuổi phục vụ tại khoản 2.\nNguồn [SQ]: Luật số 52/2024/QH15 sửa đổi Luật Sĩ quan; khoản 2 Điều 1 sửa Điều 13. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 6,
+          "question": "Theo Công văn số 5566/HV-VP của Học viện, học viên là hạ sĩ quan, binh sĩ vi phạm quy định về sử dụng điện thoại di động có thể bị áp dụng biện pháp quản lý nội bộ và xem xét kỷ luật theo các lần vi phạm như thế nào?",
+          "options": {
+            "A": {
+              "text": "Lần 1 chỉ nhắc nhở; lần 2 cấm điện thoại 15 ngày; lần 3 cấm 01 tháng.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Mọi vi phạm từ lần đầu đều bị tịch thu điện thoại vĩnh viễn.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Lần 1 cấm đi tranh thủ; lần 2 buộc thôi học; lần 3 giáng cấp bậc quân hàm.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Lần 1 (chưa đến mức kỷ luật): không được sử dụng điện thoại 01 tháng; lần 2: 03 tháng và xem xét khiển trách; lần 3: 06 tháng và xem xét cảnh cáo.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": " Đáp án D.Văn bản cần đối chiếu: 5566/HV-VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần kiểm tra chính xác thời hạn 01, 03, 06 tháng, điều kiện áp dụng và quan hệ giữa biện pháp quản lý với hình thức kỷ luật trong bản gốc.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+
+          "answer_note": " Phương án đúng theo bảng."
+          
+        },
+        {
+          "number": 7,
+          "question": "Trong giờ sinh hoạt tại doanh trại, một học viên phát hiện có cháy tại khu vực nhà ở. Theo Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ năm 2024 (đã được sửa đổi, bổ sung), học viên cần thực hiện việc báo cháy như thế nào?",
+          "options": {
+            "A": {
+              "text": "Chờ chỉ huy đơn vị xác nhận mức độ thiệt hại rồi mới báo cháy.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Chỉ đăng thông tin lên nhóm lớp để nhờ người khác gọi báo cháy.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Báo ngay cho lực lượng phòng cháy, chữa cháy và cứu nạn, cứu hộ hoặc cơ quan có thẩm quyền; có thể gọi số 114.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Chỉ thông báo sau khi tự xử lý mà không khống chế được đám cháy.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Khoản 1, 2 Điều 6: phát hiện cháy phải báo ngay, số điện thoại thống nhất là 114.\nNguồn [PCCC]: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15; Điều 6 và Điều 8. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án."
+        },
+        {
+          "number": 8,
+          "question": "Một học viên nhận được đường liên kết tải tài liệu học tập nhưng máy tính cảnh báo nguy cơ chứa phần mềm độc hại. Theo Luật An ninh mạng năm 2025, học viên có trách nhiệm gì?",
+          "options": {
+            "A": {
+              "text": "Chủ động phòng ngừa, phát hiện, ngăn chặn phần mềm độc hại và thực hiện hướng dẫn, yêu cầu của cơ quan nhà nước có thẩm quyền.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Chỉ xử lý khi máy tính đã bị mất dữ liệu.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chuyển đường liên kết cho các học viên khác để cùng kiểm tra.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tiếp tục tải nếu đường liên kết được chia sẻ trong nhóm lớp.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 1 Điều 17 yêu cầu chủ động phòng ngừa phần mềm độc hại.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án ."
+        },
+        {
+          "number": 9,
+          "question": "Theo Điều 35 Luật Phòng, chống tham nhũng năm 2018 (đã được sửa đổi, bổ sung), đối với kim khí quý, đá quý, tiền, giấy tờ có giá và tài sản khác, người có nghĩa vụ kê khai phải kê khai khi mỗi loại tài sản có giá trị từ mức nào?",
+          "options": {
+            "A": {
+              "text": "Từ 20.000.000 đồng trở lên.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Từ 100.000.000 đồng trở lên.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Từ 300.000.000 đồng trở lên.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Từ 150.000.000 đồng trở lên.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Điểm b khoản 1 Điều 35, được sửa bởi khoản 11 Điều 1 Luật 132/2025/QH15: ngưỡng là 150 triệu đồng mỗi loại, áp dụng từ 01/7/2026. Mốc 50 triệu đồng của quy định trước đây không còn phù hợp với thời điểm rà soát.\nNguồn [PCTN]: Luật Phòng, chống tham nhũng, bản hợp nhất năm 2026; Điều 35 và Điều 65. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án ."
+        },
+        {
+          "number": 10,
+          "question": "Theo Thông báo số 302-TB/VP của Học viện, trong ngày nghỉ, tỷ lệ tối đa học viên đào tạo dài hạn cấp phân đội năm thứ ba được ra ngoài doanh trại là bao nhiêu?",
+          "options": {
+            "A": {
+              "text": "Không quá 10%.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Không quá 35%.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Không quá 30%.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Không quá 70%.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": " Đáp án C. CHƯA ĐỦ CĂN CỨ XÁC MINH\nVăn bản cần đối chiếu: 302-TB/VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần xác minh tỷ lệ ra ngoài riêng của học viên năm thứ ba; không suy ra từ quy định chung hoặc tỷ lệ của khóa khác.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": " Phương án đúng theo bảng."
+        }
+      ]
+    },
+    {
+      "set": 2,
+      "title": "BỘ ĐỀ SỐ 02",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Theo Luật Hôn nhân và gia đình năm 2014 (đã được sửa đổi, bổ sung), độ tuổi tối thiểu để nam và nữ được phép kết hôn là bao nhiêu?",
+          "options": {
+            "A": {
+              "text": "Nam từ đủ 20 tuổi trở lên, nữ từ đủ 20 tuổi trở lên.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Nam từ đủ 22 tuổi trở lên, nữ từ đủ 20 tuổi trở lên.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Nam từ đủ 18 tuổi trở lên, nữ từ đủ 18 tuổi trở lên.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Điểm a khoản 1 Điều 8: nam từ đủ 20 tuổi, nữ từ đủ 18 tuổi. Đề chỉ hỏi điều kiện về độ tuổi.\nNguồn [HN]: Luật Hôn nhân và gia đình, bản hợp nhất 121/VBHN-VPQH năm 2025; Điều 8 và Điều 16. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 2,
+          "question": "Theo Công văn số 50/VP-TT ngày 18/01/2024 của Văn phòng Học viện, học viên, chiến sĩ tại khu A - Hà Nội tiếp nhận bưu phẩm do VNPost, Viettel Post chuyển đến và hàng đặt trên sàn thương mại điện tử ở đâu, vào thời gian nào?",
+          "options": {
+            "A": {
+              "text": "Nhận bưu phẩm VNPost, Viettel Post tại Ban Thông tin (Tầng 1, Nhà S4); nhận hàng thương mại điện tử ở cổng phía Tây vào giờ nghỉ, ngày nghỉ.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Trực ban nội vụ nhận thay và thanh toán hộ mọi đơn hàng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Ban Văn thư, Lưu trữ chuyển mọi bưu phẩm đến tận phòng ở.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Nhận tất cả tại cổng chính vào bất kỳ thời điểm nào.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": " Đáp án A.Văn bản cần đối chiếu: 50/VP-TT ngày 18/01/2024.\n Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\n Cần xác minh địa điểm tầng 1 nhà S4, cổng phía Tây và thời gian nhận hàng trong bản gốc.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 3,
+          "question": "Một người thực hiện hành vi sản xuất hoặc buôn bán hàng giả là thuốc chữa bệnh, làm chết hai người. Theo khoản 4 Điều 194 Bộ luật Hình sự năm 2015 (đã được sửa đổi, bổ sung), người phạm tội thuộc khung hình phạt chính nào sau đây?",
+          "options": {
+            "A": {
+              "text": "Phạt tiền từ 5 triệu đồng đến 10 triệu đồng.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Phạt tù từ 01 năm đến 05 năm.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ phải bồi thường thiệt hại cho gia đình người bị hại.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Phạt tù 20 năm hoặc tù chung thân.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Điểm b khoản 4 Điều 194 sau sửa đổi năm 2025: làm chết từ 02 người trở lên thuộc khung tù 20 năm hoặc tù chung thân. Không dùng bản cũ còn hình phạt tử hình.\nNguồn [HS]: Bộ luật Hình sự, bản hợp nhất 135/VBHN-VPQH năm 2025; Điều 22 và Điều 194. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 4,
+          "question": "Theo điểm g khoản 2 Điều 7 Luật An ninh mạng năm 2025, hành vi nào sau đây bị nghiêm cấm?",
+          "options": {
+            "A": {
+              "text": "Sử dụng trí tuệ nhân tạo (AI) để kiểm tra lỗi chính tả trong tài liệu học tập.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Sử dụng AI để giả mạo hình ảnh, video hoặc giọng nói của người khác trái quy định của pháp luật.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Sử dụng phần mềm để sao lưu dữ liệu cá nhân hợp pháp.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tra cứu các tài liệu học tập được công bố công khai bằng công cụ AI.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Điểm g khoản 2 Điều 7 cấm dùng AI giả mạo trái pháp luật.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 5,
+          "question": "Một công dân nam 26 tuổi từng được tạm hoãn gọi nhập ngũ để học đại học, nay đã tốt nghiệp, chưa nhập ngũ và không thuộc diện miễn gọi nhập ngũ. Theo Luật Nghĩa vụ quân sự năm 2015 (đã được sửa đổi, bổ sung), người này còn trong độ tuổi gọi nhập ngũ không?",
+          "options": {
+            "A": {
+              "text": "Không, vì độ tuổi gọi nhập ngũ chỉ từ đủ 18 tuổi đến hết 25 tuổi, không có ngoại lệ.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Có, vì công dân đã được tạm hoãn để học đại học thì độ tuổi gọi nhập ngũ kéo dài đến hết 30 tuổi.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Có, vì công dân đã được tạm hoãn để học đại học thì độ tuổi gọi nhập ngũ kéo dài đến hết 27 tuổi.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Không, vì công dân đã tốt nghiệp đại học được miễn gọi nhập ngũ.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Điều 30: công dân đã được tạm hoãn gọi nhập ngũ để học cao đẳng, đại học có độ tuổi gọi nhập ngũ đến hết 27 tuổi. Người 26 tuổi trong tình huống còn thuộc độ tuổi này.\nNguồn [NVQS]: Luật Nghĩa vụ quân sự năm 2015; Điều 30, giải đáp của Cổng TTĐT Hà Nội. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án."
+        },
+        {
+          "number": 6,
+          "question": "Theo Công văn số 5566/HV-VP của Học viện, học viên sử dụng máy tính cá nhân để trao đổi tin nhắn qua Facebook, Zalo trong giờ học thì có vi phạm quy định không?",
+          "options": {
+            "A": {
+              "text": "Vi phạm quy định về sử dụng máy tính cá nhân trong thời gian học tập, công tác và sinh hoạt tập trung.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Không vi phạm nếu chỉ trao đổi nội dung học tập.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Không vi phạm nếu sử dụng mạng Internet cá nhân.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Chỉ vi phạm khi sử dụng các ứng dụng này để đăng tải thông tin quân sự.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "CHƯA ĐỦ CĂN CỨ XÁC MINH\nVăn bản cần đối chiếu: 5566/HV-VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nA phù hợp với cách diễn đạt trong các lựa chọn, nhưng chưa có căn cứ độc lập xác nhận phạm vi cấm ứng dụng trong giờ học của công văn này.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án."
+        },
+        {
+          "number": 7,
+          "question": "Theo Điều 42 Thông tư số 143/2023/TT-BQP, quân nhân có hành vi đánh bạc hoặc cho vay nặng lãi trái pháp luật bị xem xét kỷ luật như thế nào?",
+          "options": {
+            "A": {
+              "text": "Bị kỷ luật khiển trách hoặc cảnh cáo; nếu thuộc trường hợp quy định tại khoản 2 Điều 42 thì áp dụng hình thức kỷ luật nặng hơn theo quy định.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Vi phạm lần đầu chỉ bị nhắc nhở, không xử lý kỷ luật.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ xử phạt hành chính, không áp dụng kỷ luật quân đội.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Mọi trường hợp đều đương nhiên bị tước danh hiệu quân nhân.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 1 Điều 42: khiển trách hoặc cảnh cáo. Khoản 2 quy định các tình tiết dẫn đến mức kỷ luật nặng hơn; không đương nhiên tước danh hiệu quân nhân trong mọi trường hợp.\nNguồn [KL42]: Thông tư 143/2023/TT-BQP; Điều 42 về đánh bạc, cho vay nặng lãi. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 8,
+          "question": "Theo khoản 1 Điều 147 Bộ luật Tố tụng hình sự năm 2015 (đã được sửa đổi, bổ sung), trong trường hợp thông thường, kể từ ngày nhận được tố giác, tin báo về tội phạm hoặc kiến nghị khởi tố, cơ quan có thẩm quyền phải kiểm tra, xác minh và ra quyết định giải quyết trong thời hạn bao lâu?",
+          "options": {
+            "A": {
+              "text": "30 ngày kể từ ngày tiếp nhận tin báo.",
+              "highlight": null
+            },
+            "B": {
+              "text": "20 ngày kể từ ngày tiếp nhận tin báo.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "05 ngày kể từ ngày tiếp nhận tin báo.",
+              "highlight": null
+            },
+            "D": {
+              "text": "10 ngày kể từ ngày tiếp nhận tin báo.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Khoản 1 Điều 147: thời hạn thông thường là 20 ngày kể từ khi nhận tin. Các trường hợp phức tạp và gia hạn thuộc khoản 2, không phải tình huống đề hỏi.\nNguồn [TTHS]: Bộ luật Tố tụng hình sự, bản hợp nhất 104/VBHN-VPQH năm 2025; Điều 147. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 9,
+          "question": "Theo Thông báo số 302-TB/VP của Học viện, học viên đang đào tạo giai đoạn 1 được ra ngoài doanh trại vào ngày nghỉ và đi tranh thủ như thế nào?",
+          "options": {
+            "A": {
+              "text": "Ngày nghỉ được ra ngoài không quá 10%, mỗi lần không quá 02 giờ; không giải quyết đi tranh thủ, trừ trường hợp đặc biệt được cấp có thẩm quyền xem xét.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Ngày nghỉ được ra ngoài tỷ lệ không quá 30%, được giải quyết đi tranh thủ mỗi tháng 01 lần.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Hoàn toàn không được ra ngoài doanh trại vào ngày thứ Bảy và Chủ nhật trong suốt giai đoạn 1.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Ngày nghỉ được ra ngoài từ 07h00 đến 21h00 không giới hạn số giờ mỗi lần ra ngoài.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A.Văn bản cần đối chiếu: 302-TB/VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần đối chiếu riêng tỷ lệ, số giờ và chế độ đi tranh thủ cho học viên giai đoạn 1.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 10,
+          "question": "Theo khoản 4 và khoản 5 Điều 7 Luật An ninh mạng năm 2025, nhóm hành vi nào sau đây bị nghiêm cấm?",
+          "options": {
+            "A": {
+              "text": "Sao lưu dữ liệu cá nhân định kỳ lên thiết bị lưu trữ hợp pháp.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Cập nhật bản vá bảo mật hệ điều hành theo khuyến cáo của cơ quan chức năng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Phát tán chương trình tin học gây hại cho hoạt động của mạng viễn thông, mạng Internet, hệ thống thông tin; xâm nhập trái phép vào mạng, hệ thống thông tin, cơ sở dữ liệu hoặc phương tiện điện tử của người khác.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Cài đặt phần mềm diệt virus có bản quyền để bảo vệ máy tính cá nhân.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Khoản 4, 5 Điều 7 cấm phát tán mã gây hại và xâm nhập trái phép.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        }
+      ]
+    },
+    {
+      "set": 3,
+      "title": "BỘ ĐỀ SỐ 03",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Theo Thông tư số 143/2023/TT-BQP ngày 27/12/2023 của Bộ Quốc phòng quy định xử lý kỷ luật trong Quân đội nhân dân Việt Nam, các hình thức kỷ luật áp dụng đối với hạ sĩ quan, binh sĩ bao gồm những hình thức nào?",
+          "options": {
+            "A": {
+              "text": "Chỉ có hai hình thức là khiển trách và cảnh cáo.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Khiển trách, cảnh cáo, phạt tiền, buộc thôi việc.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Khiển trách, cảnh cáo, hạ bậc lương, kéo dài thời hạn nâng lương.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Khiển trách, cảnh cáo, giáng chức, cách chức, giáng cấp bậc quân hàm, tước danh hiệu quân nhân.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Nhóm hình thức áp dụng cho hạ sĩ quan, binh sĩ gồm đủ sáu hình thức liệt kê ở D. Không đưa phạt tiền, hạ bậc lương hoặc buộc thôi việc vào danh mục của nhóm này.\nNguồn [KL]: Thông tư 143/2023/TT-BQP; các hình thức kỷ luật hạ sĩ quan, binh sĩ. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 2,
+          "question": "Theo Công văn số 563/CT-TH của Phòng Chính trị, học viên muốn chia sẻ bài viết, hình ảnh về hoạt động của đơn vị lên mạng xã hội cần tuân thủ yêu cầu nào?",
+          "options": {
+            "A": {
+              "text": "Được chia sẻ thông tin chưa kiểm chứng nếu chỉ đăng trong nhóm kín.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Sử dụng nguồn thông tin chính thống và chỉ đăng tải nội dung đã được phép công bố.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Có thể sử dụng mọi thông tin trên mạng nếu thấy hợp lý.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Được đăng mọi hình ảnh hoạt động của đơn vị khi không nêu tên người trong ảnh.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "CHƯA ĐỦ CĂN CỨ XÁC MINH\nVăn bản cần đối chiếu: 563/CT-TH. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nB phù hợp nguyên tắc nguồn tin chính thống và thông tin được phép công bố; xem [TT81]. Chưa xác nhận được chính công văn mà câu hỏi viện dẫn.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+         
+        },
+        {
+          "number": 3,
+          "question": "Một học viên bị người khác tấn công trái pháp luật và chống trả ở mức cần thiết để bảo vệ bản thân. Theo Bộ luật Hình sự năm 2015 (đã được sửa đổi, bổ sung), hành vi chống trả đó được xác định như thế nào?",
+          "options": {
+            "A": {
+              "text": "Đương nhiên là hành vi vượt quá giới hạn phòng vệ chính đáng.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Luôn là tội phạm nếu người chống trả gây thương tích cho người tấn công.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Là phòng vệ chính đáng và không phải là tội phạm.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Chỉ được coi là hợp pháp khi có sự cho phép trước của cơ quan Công an.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Khoản 1 Điều 22: chống trả cần thiết người đang xâm phạm lợi ích hợp pháp là phòng vệ chính đáng, không phải tội phạm. Đề đã cho điều kiện về mức độ cần thiết.\nNguồn [HS]: Bộ luật Hình sự, bản hợp nhất 135/VBHN-VPQH năm 2025; Điều 22 và Điều 194. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 4,
+          "question": "Theo Luật Căn cước năm 2023 (đã được sửa đổi, bổ sung), quy định nào đúng về độ tuổi thực hiện thủ tục cấp thẻ căn cước và thời hạn giải quyết khi đã nhận đủ hồ sơ?",
+          "options": {
+            "A": {
+              "text": "Công dân Việt Nam từ đủ 14 tuổi trở lên phải thực hiện thủ tục cấp thẻ; người dưới 14 tuổi được cấp theo nhu cầu; thời hạn giải quyết là 07 ngày làm việc.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Công dân từ đủ 16 tuổi trở lên mới bắt buộc làm thẻ căn cước; thời hạn giải quyết là 10 ngày làm việc.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ cấp cho công dân từ đủ 14 tuổi trở lên; thời hạn giải quyết là 15 ngày làm việc.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Mọi công dân từ khi mới sinh ra đều bắt buộc phải làm thẻ căn cước; thời hạn giải quyết là 05 ngày làm việc.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 2, 3 Điều 19 và Điều 26: từ đủ 14 tuổi phải thực hiện thủ tục cấp thẻ, dưới 14 tuổi theo nhu cầu; thời hạn 07 ngày làm việc khi nhận đủ hồ sơ.\nNguồn [CC]: Luật Căn cước số 26/2023/QH15; Điều 19, 21 và 26. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 5,
+          "question": "Theo Luật An ninh mạng năm 2025, hệ thống thông tin quân sự, an ninh, ngoại giao, cơ yếu hoặc hệ thống xử lý bí mật nhà nước đã được đưa vào Danh mục hệ thống thông tin quan trọng về an ninh quốc gia phải đáp ứng yêu cầu gì?",
+          "options": {
+            "A": {
+              "text": "Thuộc hệ thống thông tin thương mại nội bộ; chỉ cần đăng ký với nhà cung cấp dịch vụ viễn thông.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Thuộc hệ thống thông tin công cộng; chỉ kiểm tra an ninh mạng sau khi xảy ra sự cố.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Thuộc hệ thống thông tin dân sự thông thường; không cần thẩm định trước khi vận hành.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Được thẩm định an ninh mạng và chứng nhận đủ điều kiện an ninh mạng trước khi vận hành; thường xuyên được kiểm tra, giám sát trong quá trình sử dụng.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. D phù hợp nhất; xem Điều 10–11. Thẩm quyền đối với hệ thống quân sự và cơ yếu được phân định riêng. Không hiểu mọi hệ thống đều do Bộ Công an chứng nhận.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 6,
+          "question": "Anh A vay anh B 50 triệu đồng trong 01 năm, các bên thỏa thuận vay không có lãi và không có thỏa thuận khác về lãi chậm trả. Đến hạn, anh A không trả nợ. Theo Bộ luật Dân sự năm 2015, anh B có thể yêu cầu khoản lãi nào?",
+          "options": {
+            "A": {
+              "text": "Tiền lãi tính theo mức 20%/năm trên số tiền chậm trả tương ứng với thời gian chậm trả.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Tiền lãi trên số tiền chậm trả theo mức lãi suất quy định tại khoản 2 Điều 468 Bộ luật Dân sự 2015 (10%/năm) tương ứng với thời gian chậm trả.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Không được tính thêm bất kỳ khoản tiền lãi nào vì hợp đồng vay ban đầu là không có lãi suất.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tiền lãi tính theo lãi suất cơ bản do Ngân hàng Nhà nước công bố tương ứng với thời gian chậm trả.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Khoản 4 Điều 466 dẫn chiếu khoản 2 Điều 468: lãi chậm trả 10%/năm trên tiền chậm trả trong thời gian chậm trả. Với 50 triệu đồng, tương đương 5 triệu đồng cho đủ một năm chậm trả, không phải lãi của năm vay ban đầu.\nNguồn [DS]: Bộ luật Dân sự số 91/2015/QH13; Điều 22, 466, 468 và 651. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 7,
+          "question": "Theo Công văn số 5566/HV-VP của Học viện, hành vi nào dưới đây bị nghiêm cấm khi học viên sử dụng thiết bị cá nhân, tài khoản mạng xã hội?",
+          "options": {
+            "A": {
+              "text": "Báo cáo, cập nhật thông tin kịp thời với chỉ huy đơn vị khi thay đổi điện thoại hoặc số thuê bao.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Nộp điện thoại di động để quản lý tập trung tại tủ an toàn của đại đội, lớp sau giờ quy định.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Dùng danh tính quân nhân, phiên hiệu đơn vị để đăng ký tài khoản mạng xã hội; hoặc kết nối trái quy định thiết bị cá nhân với mạng nội bộ quân sự.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Đăng ký nhãn hiệu, số seri máy tính, số thuê bao điện thoại và các tài khoản mạng xã hội với chỉ huy đơn vị.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+           "answer_status": "verified_per_source_answer_table",
+          "explanation": " Đáp án C.Văn bản cần đối chiếu: 5566/HV-VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nC có nội dung phù hợp nguyên tắc bảo vệ thông tin và quản lý tài khoản quân nhân; xem [TT81] về thông tin đăng ký tài khoản. Cần kiểm tra riêng quy định kết nối mạng và câu chữ của công văn.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."     
+        },
+        {
+          "number": 8,
+          "question": "Theo khoản 2 Điều 42 Luật An ninh mạng năm 2025, người sử dụng tài khoản số để thực hiện hành vi vi phạm pháp luật có thể bị xử lý như thế nào?",
+          "options": {
+            "A": {
+              "text": "Tùy theo tính chất, mức độ vi phạm, có thể bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự; nếu gây thiệt hại thì phải bồi thường theo quy định của pháp luật.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Mọi hành vi vi phạm Luật An ninh mạng đều bị truy cứu trách nhiệm hình sự mà không áp dụng xử lý kỷ luật hay xử phạt hành chính.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ phải xin lỗi công khai trên không gian mạng và tự gỡ bỏ thông tin vi phạm.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Chỉ bị xử phạt vi phạm hành chính bằng hình thức phạt tiền và khóa tài khoản mạng xã hội.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 2 Điều 42 quy định xử lý và bồi thường tùy vi phạm.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 9,
+          "question": "Theo Thông báo số 302-TB/VP của Học viện, học viên đào tạo dài hạn cấp phân đội được giải quyết đi tranh thủ với tỷ lệ tối đa và số lần như thế nào?",
+          "options": {
+            "A": {
+              "text": "Tỷ lệ không quá 35%; mỗi học viên được đi hằng tuần.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Tỷ lệ không quá 10% trong số học viên được ra ngoài doanh trại; mỗi học viên không quá một lần mỗi tháng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Tỷ lệ không quá 70%; không giới hạn số lần.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tỷ lệ không quá 30%; mỗi học viên được đi hai lần mỗi tháng.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "CHƯA ĐỦ CĂN CỨ XÁC MINH\nVăn bản cần đối chiếu: 302-TB/VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần xác minh cả tỷ lệ, mẫu số dùng tính tỷ lệ và số lần đi tranh thủ mỗi tháng.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 10,
+          "question": "Một học viên phát hiện dấu hiệu tham nhũng trong hoạt động của cơ quan, tổ chức. Theo Luật Phòng, chống tham nhũng năm 2018 (đã được sửa đổi, bổ sung), nhận định nào sau đây đúng về quyền phản ánh, tố cáo?",
+          "options": {
+            "A": {
+              "text": "Chỉ người đang giữ chức vụ lãnh đạo mới được tố cáo hành vi tham nhũng.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Chỉ người bị thiệt hại trực tiếp mới có quyền phản ánh hành vi tham nhũng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Mọi phản ánh về hành vi tham nhũng đều phải công khai trên mạng xã hội.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Cá nhân có quyền phản ánh, tố cáo hành vi tham nhũng theo quy định của pháp luật; cơ quan có thẩm quyền phải xem xét, xử lý khi tiếp nhận.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Khoản 1, 2 Điều 65: cá nhân có quyền phản ánh, tố cáo; cơ quan có thẩm quyền phải xem xét, xử lý kịp thời và bảo vệ người phản ánh, tố cáo.\nNguồn [PCTN]: Luật Phòng, chống tham nhũng, bản hợp nhất năm 2026; Điều 35 và Điều 65. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        }
+      ]
+    },
+    {
+      "set": 4,
+      "title": "BỘ ĐỀ SỐ 04",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Theo Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ năm 2024 (đã được sửa đổi, bổ sung), quy định nào sau đây về trách nhiệm tham gia phòng cháy, chữa cháy, cứu nạn, cứu hộ là đúng?",
+          "options": {
+            "A": {
+              "text": "Mọi cơ quan, tổ chức, hộ gia đình, cá nhân có trách nhiệm tham gia phòng cháy, chữa cháy và cứu nạn, cứu hộ theo quy định của pháp luật.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Chỉ thực hiện các biện pháp an toàn khi đã có đám cháy xảy ra.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ cần thực hiện phòng cháy khi có đoàn kiểm tra của cơ quan Công an.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Mọi hộ gia đình bắt buộc phải tự trang bị xe chữa cháy chuyên dụng.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 1 Điều 8 xác định đây là trách nhiệm của cơ quan, tổ chức, hộ gia đình, cá nhân.\nNguồn [PCCC]: Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15; Điều 6 và Điều 8. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 2,
+          "question": "Theo Công văn số 563/CT-TH của Phòng Chính trị, các cơ quan, đơn vị trong Học viện phải quán triệt văn bản nào của Bộ Quốc phòng về sử dụng ứng dụng, dịch vụ và thông tin trên Internet?",
+          "options": {
+            "A": {
+              "text": "Thông tư số 16/2020/TT-BQP ngày 21/02/2020.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Quyết định số 1700/QĐ-HV ngày 24/5/2019.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Thông tư số 81/2025/TT-BQP ngày 26/7/2025.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tờ trình số 299/TTr-VP ngày 05/10/2022.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C.Văn bản cần đối chiếu: 563/CT-TH. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nThông tư 81/2025/TT-BQP tại phương án C thực sự điều chỉnh quản lý, cung cấp, sử dụng ứng dụng, dịch vụ và thông tin trên Internet. Tuy nhiên, chưa chứng minh được Công văn 563/CT-TH yêu cầu quán triệt đúng văn bản này.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."       
+        },
+        {
+          "number": 3,
+          "question": "Theo Luật An ninh mạng năm 2025, việc đăng tải, phát tán trên không gian mạng thông tin xuyên tạc lịch sử, phủ nhận thành tựu cách mạng, phá hoại khối đại đoàn kết toàn dân tộc được pháp luật quy định như thế nào?",
+          "options": {
+            "A": {
+              "text": "Không vi phạm pháp luật nếu người đăng tải chỉ chia sẻ lại từ một trang mạng nước ngoài.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Là hành vi bị nghiêm cấm về an ninh mạng.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Chỉ bị xử lý nếu bài viết thu hút trên 10.000 lượt tương tác.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Chỉ bị nhắc nhở hoặc khóa tài khoản tạm thời trong 24 giờ.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Điểm b khoản 1 Điều 7 cấm các nội dung nêu trong câu hỏi.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 4,
+          "question": "Theo Bộ luật Dân sự năm 2015, một người do bệnh tâm thần hoặc bệnh khác mà không thể nhận thức, làm chủ hành vi có thể bị tuyên bố mất năng lực hành vi dân sự bằng quyết định của cơ quan nào?",
+          "options": {
+            "A": {
+              "text": "Viện kiểm sát nhân dân.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Ủy ban nhân dân cấp xã.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Cơ quan Công an.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tòa án nhân dân có thẩm quyền.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Khoản 1 Điều 22: Tòa án ra quyết định trên cơ sở kết luận giám định pháp y tâm thần, theo yêu cầu hợp lệ. Cơ quan khác không thay Tòa án tuyên bố mất năng lực hành vi dân sự.\nNguồn [DS]: Bộ luật Dân sự số 91/2015/QH13; Điều 22, 466, 468 và 651. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 5,
+          "question": "Theo Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2024 (đã được sửa đổi, bổ sung), cá nhân được sở hữu và phải khai báo vũ khí thô sơ trong trường hợp nào sau đây?",
+          "options": {
+            "A": {
+              "text": "Sở hữu vũ khí thô sơ thuộc loại quy định tại điểm a khoản 4 Điều 2 để trưng bày, triển lãm hoặc làm đồ gia bảo.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Được sở hữu các loại công cụ hỗ trợ như bình xịt hơi cay, dùi cui điện để phòng thân cá nhân.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Được sở hữu vũ khí thể thao tại nhà riêng mà không cần giấy phép.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Được sở hữu súng săn để tự vệ và bảo vệ mùa màng tại khu vực nông thôn, miền núi.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Khoản 1 Điều 5 có ngoại lệ sở hữu loại vũ khí thô sơ tại điểm a khoản 4 Điều 2 để trưng bày, triển lãm, làm đồ gia bảo; phải khai báo theo Điều 4 và Điều 31.\nNguồn [VK]: Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 42/2024/QH15; Điều 2, 4, 5 và 31. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 6,
+          "question": "Theo Công văn số 5566/HV-VP của Học viện về quản lý thiết bị cá nhân, mỗi học viên là hạ sĩ quan, binh sĩ được phép sử dụng những thiết bị nào và với số lượng bao nhiêu?",
+          "options": {
+            "A": {
+              "text": "Không giới hạn số lượng điện thoại và máy tính nếu đã đăng ký với chỉ huy.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Hai điện thoại di động và một máy tính cá nhân.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Một điện thoại di động kèm một SIM Viettel đăng ký chính chủ và một máy tính cá nhân.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Một điện thoại di động sử dụng SIM của bất kỳ nhà mạng nào và hai máy tính cá nhân.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Văn bản cần đối chiếu: 5566/HV-VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần đối chiếu giới hạn số thiết bị, số SIM, điều kiện chính chủ và nhà mạng cụ thể. Không suy ra từ luật chung.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",         
+         "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+          
+        },
+        {
+          "number": 7,
+          "question": "Chị H muốn khởi kiện một cá nhân do vi phạm hợp đồng mua bán tài sản. Tuy nhiên, chị đang làm việc ở xa nơi có Tòa án có thẩm quyền giải quyết. Theo Bộ luật Tố tụng dân sự năm 2015 (đã được sửa đổi, bổ sung), chị H có thể gửi đơn khởi kiện đến Tòa án bằng phương thức nào?",
+          "options": {
+            "A": {
+              "text": "Chỉ được gửi đơn qua Ủy ban nhân dân cấp xã nơi chị H đang cư trú.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Chỉ được trực tiếp đến trụ sở Tòa án để nộp đơn khởi kiện.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ được gửi đơn khởi kiện thông qua văn phòng luật sư đại diện.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Nộp trực tiếp tại Tòa án, gửi đến Tòa án theo đường dịch vụ bưu chính hoặc gửi trực tuyến bằng hình thức điện tử qua Cổng thông tin điện tử của Tòa án (nếu có).",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Khoản 1 Điều 190 cho phép nộp trực tiếp, qua dịch vụ bưu chính hoặc trực tuyến qua Cổng thông tin điện tử của Tòa án nếu có.\nNguồn [TTDS]: Bộ luật Tố tụng dân sự; khoản 1 Điều 190. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 8,
+          "question": "Theo Điều 18 Luật An ninh mạng năm 2025, khi hệ thống thông tin có nguy cơ bị tấn công mạng, chủ quản hệ thống thông tin cần thực hiện trách nhiệm nào?",
+          "options": {
+            "A": {
+              "text": "Xóa bỏ toàn bộ nhật ký hệ thống (log) trước khi cơ quan chức năng kiểm tra.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Áp dụng biện pháp kỹ thuật để phòng ngừa, ngăn chặn tấn công mạng đối với hệ thống thuộc phạm vi quản lý; phối hợp với lực lượng chuyên trách khi xử lý sự cố theo quy định.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Tự mình âm thầm xử lý nội bộ và không được báo cho cơ quan chức năng để tránh ảnh hưởng uy tín.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Ngắt toàn bộ hệ thống điện quốc gia trong khu vực đặt máy chủ suốt 30 ngày.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Khoản 2, 3 Điều 18: phòng ngừa kỹ thuật và phối hợp xử lý tấn công.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 9,
+          "question": "Theo Công văn số 50/VP-TT ngày 18/01/2024 của Học viện, phương án nào đúng về trọng lượng bưu phẩm, bưu kiện và việc tiếp nhận kiện hàng chưa thanh toán cước vận chuyển?",
+          "options": {
+            "A": {
+              "text": "Mọi kiện hàng chưa thanh toán đều được Ban Văn thư, Lưu trữ trả cước hộ.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Bưu phẩm tối đa 5 kg, bưu kiện 50 kg; Ban Thông tin ứng tiền thanh toán.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Bưu phẩm tối đa 2 kg, bưu kiện tối đa 31,5 kg; đơn vị, cá nhân tự nhận và thanh toán hàng chưa trả cước, Ban Thông tin và Trực ban nội vụ không nhận thay.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Bưu phẩm, bưu kiện đều không giới hạn trọng lượng; mọi đơn hàng đều được Trực ban nhận.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án c.Văn bản cần đối chiếu: 50/VP-TT ngày 18/01/2024. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Tiêu chuẩn dịch vụ bưu chính không đủ chứng minh giới hạn cân nặng, trách nhiệm nhận thay và thanh toán nội bộ của Học viện.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+           "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."         
+        },
+        {
+          "number": 10,
+          "question": "Theo Điều 30 Luật Nghĩa vụ quân sự năm 2015 (đã được sửa đổi, bổ sung), độ tuổi gọi nhập ngũ thông thường đối với công dân nam không thuộc trường hợp được kéo dài độ tuổi do từng tạm hoãn để học cao đẳng, đại học là bao nhiêu?",
+          "options": {
+            "A": {
+              "text": "Từ đủ 18 tuổi đến hết 25 tuổi.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Từ đủ 18 tuổi đến hết 30 tuổi.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Từ đủ 18 tuổi đến hết 27 tuổi.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Từ đủ 20 tuổi đến hết 28 tuổi.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Điều 30: thông thường từ đủ 18 tuổi đến hết 25 tuổi; ngoại lệ kéo dài do tạm hoãn học cao đẳng, đại học không thuộc tình huống câu này.\nNguồn [NVQS]: Luật Nghĩa vụ quân sự năm 2015; Điều 30, giải đáp của Cổng TTĐT Hà Nội. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        }
+      ]
+    },
+    {
+      "set": 5,
+      "title": "BỘ ĐỀ SỐ 05",
+      "questions": [
+        {
+          "number": 1,
+          "question": "Theo khoản 1 Điều 64 Luật Bảo hiểm xã hội năm 2024 (đã được sửa đổi, bổ sung), người lao động thuộc diện tham gia bảo hiểm xã hội bắt buộc theo hợp đồng lao động, làm việc trong điều kiện bình thường, khi nghỉ việc và đủ tuổi nghỉ hưu phải có thời gian đóng bảo hiểm xã hội bắt buộc tối thiểu bao nhiêu năm để hưởng lương hưu?",
+          "options": {
+            "A": {
+              "text": "Có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 10 năm trở lên.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Từ đủ 15 năm trở lên.",
+              "highlight": "yellow"
+            },
+            "C": {
+              "text": "Có thời gian đóng bảo hiểm xã hội bắt buộc từ đủ 20 năm trở lên mới được xét hưởng lương hưu trong mọi trường hợp.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Chỉ cần đóng bảo hiểm xã hội đủ 30 năm không phân biệt độ tuổi nghỉ hưu.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B. Khoản 1 Điều 64: từ đủ 15 năm đóng BHXH bắt buộc cùng điều kiện tuổi nghỉ hưu theo đề. Quy định không đòi đủ 20 năm trong mọi trường hợp.\nNguồn [BHXH]: Luật Bảo hiểm xã hội số 41/2024/QH15; khoản 1 Điều 64. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 2,
+          "question": "Theo Công văn số 563/CT-TH của Phòng Chính trị, nội dung nào dưới đây học viên tuyệt đối không được đăng tải lên mạng xã hội?",
+          "options": {
+            "A": {
+              "text": "Tài liệu có độ mật, tài liệu lưu hành nội bộ hoặc hình ảnh, thông tin quân sự chưa được phép công bố.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Bài báo chính thống tuyên truyền gương người tốt, việc tốt trong Quân đội.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Thông tin kỷ niệm ngày lễ do cơ quan có thẩm quyền phát hành.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tin, ảnh về hoạt động thể thao của đơn vị đã được phép công bố.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A.Văn bản cần đối chiếu: 563/CT-TH. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nA phù hợp nguyên tắc bảo vệ bí mật và thông tin chưa được phép công bố; xem [TT81]. Phạm vi tài liệu lưu hành nội bộ và quy định chính xác của Công văn 563 cần được xác nhận bằng bản gốc.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 3,
+          "question": "Một học viên tự ý đăng hình ảnh thẻ căn cước và số điện thoại của bạn cùng lớp lên mạng xã hội nhằm bêu xấu, khiến người này bị quấy rối. Theo Luật An ninh mạng năm 2025, hành vi này có bị pháp luật nghiêm cấm không và vì sao?",
+          "options": {
+            "A": {
+              "text": "Không, vì thông tin được đăng trên tài khoản mạng xã hội cá nhân.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Không, nếu người đăng tải không nhằm mục đích thu lợi bất chính.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chỉ bị nghiêm cấm khi người bị đăng thông tin chứng minh được thiệt hại về tài sản.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Có, vì đây là hành vi phát tán trái pháp luật thông tin, dữ liệu cá nhân của người khác.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Điểm h khoản 2 Điều 7 cấm phát tán dữ liệu cá nhân trái pháp luật.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 4,
+          "question": "Anh X và chị Y đủ điều kiện kết hôn, chung sống như vợ chồng từ năm 2018 nhưng không đăng ký kết hôn. Năm 2026, hai người chấm dứt việc chung sống. Theo Luật Hôn nhân và gia đình năm 2014 (đã được sửa đổi, bổ sung), quan hệ tài sản giữa họ được giải quyết theo nguyên tắc nào?",
+          "options": {
+            "A": {
+              "text": "Tài sản chung mặc định chia đôi bằng nhau, không tính đến công sức đóng góp thực tế của mỗi bên.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Toàn bộ tài sản hình thành trong thời gian chung sống thuộc về người đứng tên trên giấy tờ mua bán.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Ưu tiên giải quyết theo thỏa thuận; nếu không có thỏa thuận thì áp dụng Bộ luật Dân sự và pháp luật khác có liên quan, bảo đảm quyền, lợi ích hợp pháp của phụ nữ và con.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Áp dụng chế độ tài sản pháp định của vợ chồng theo Luật Hôn nhân và Gia đình như những cặp đôi đã đăng ký kết hôn.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Điều 14 và Điều 16: không đăng ký kết hôn thì không phát sinh quyền, nghĩa vụ giữa vợ chồng; quan hệ tài sản ưu tiên theo thỏa thuận, nếu thiếu thỏa thuận áp dụng luật dân sự và luật liên quan; bảo vệ phụ nữ, con.\nNguồn [HN]: Luật Hôn nhân và gia đình, bản hợp nhất 121/VBHN-VPQH năm 2025; Điều 8 và Điều 16. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 5,
+          "question": "Một học viên thuộc phạm vi quản lý của Bộ Quốc phòng phát hiện tài khoản mạng xã hội cá nhân bị chiếm quyền sử dụng. Theo Thông tư số 81/2025/TT-BQP, học viên cần làm gì?",
+          "options": {
+            "A": {
+              "text": "Báo ngay cho lực lượng chuyên trách về công nghệ thông tin, lực lượng bảo vệ an ninh Quân đội để phối hợp xử lý theo quy định.",
+              "highlight": "yellow"
+            },
+            "B": {
+              "text": "Gửi thông tin đăng nhập cho người lạ tự nhận là nhân viên hỗ trợ để nhờ lấy lại tài khoản.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Chờ vài ngày xem tài khoản có tự khôi phục hay không.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Tạo tài khoản mới và không thông báo cho cơ quan, đơn vị.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "A",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án A. Thông tư 81/2025/TT-BQP quy định báo ngay lực lượng chuyên trách công nghệ thông tin và lực lượng bảo vệ an ninh Quân đội khi mất, bị chiếm quyền tài khoản. Nội dung được Cổng TTĐT Chính phủ công bố.\nNguồn [TT81]: Thông tư 81/2025/TT-BQP; trách nhiệm khi sử dụng mạng xã hội. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 6,
+          "question": "Chị M sinh ngày 10/10/2001 và đã làm thủ tục cấp đổi thẻ căn cước vào ngày 15/11/2024 (khi chị M hơn 23 tuổi). Theo Luật Căn cước năm 2023 (đã được sửa đổi, bổ sung), thẻ căn cước vừa được cấp đổi của chị M có giá trị sử dụng đến mốc độ tuổi cấp đổi nào tiếp theo?",
+          "options": {
+            "A": {
+              "text": "Đến khi chị M đủ 25 tuổi.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Đến khi chị M đủ 60 tuổi.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Có giá trị sử dụng vô thời hạn.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Đến khi chị M đủ 40 tuổi.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Khoản 2 Điều 21: cấp đổi trong 02 năm trước mốc 25 tuổi được dùng đến mốc kế tiếp là 40 tuổi. Ngày 15/11/2024 nằm sau sinh nhật 23 và trước sinh nhật 25 của chị M; mốc kế tiếp là 10/10/2041.\nNguồn [CC]: Luật Căn cước số 26/2023/QH15; Điều 19, 21 và 26. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 7,
+          "question": "Theo Công văn số 5566/HV-VP của Học viện, học viên là hạ sĩ quan, binh sĩ được sử dụng điện thoại trong khung giờ nào vào ngày hành chính?",
+          "options": {
+            "A": {
+              "text": "Từ 07h00 đến 11h00.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Từ 16h30 đến 18h30.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Từ 12h00 đến 14h00.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Từ 18h30 đến 21h00.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "B",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án B.Văn bản cần đối chiếu: 5566/HV-VP. Chưa có bản gốc trong tài liệu đính kèm và chưa tìm được bản công khai xác thực.\nChưa chốt phương án. Cần xác minh khung giờ ngày hành chính theo đúng đối tượng hạ sĩ quan, binh sĩ; không chọn một khung giờ bằng suy đoán.\nKhông coi phương án suy luận là đáp án đã được xác nhận.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 8,
+          "question": "Theo Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ năm 2024 (đã được sửa đổi, bổ sung), dao có tính sát thương cao được sử dụng nhằm xâm phạm trái pháp luật tính mạng, sức khỏe của người khác được xác định là gì?",
+          "options": {
+            "A": {
+              "text": "Công cụ lao động, sinh hoạt thông thường.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Công cụ hỗ trợ đặc biệt.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Vũ khí quân dụng.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Vũ khí thô sơ.",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Điểm d khoản 2 và khoản 6 Điều 2: dao có tính sát thương cao, khi dùng nhằm xâm phạm trái pháp luật tính mạng, sức khỏe con người, thuộc vũ khí quân dụng. Không đồng nhất mọi dao sinh hoạt với vũ khí quân dụng.\nNguồn [VK]: Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 42/2024/QH15; Điều 2, 4, 5 và 31. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 9,
+          "question": "Theo Luật An ninh mạng năm 2025, nội dung nào đúng về trách nhiệm phối hợp bảo vệ an ninh mạng và hành vi bị nghiêm cấm?",
+          "options": {
+            "A": {
+              "text": "Chỉ phối hợp với lực lượng bảo vệ an ninh mạng khi có sự đồng ý của quản trị viên mạng xã hội nước ngoài.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Được phép sử dụng phần mềm vượt tường lửa để vô hiệu hóa các biện pháp kỹ thuật bảo vệ an ninh mạng của cơ quan chức năng.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Không có nghĩa vụ cung cấp thông tin liên quan đến hành vi xâm phạm an ninh mạng nếu bản thân không phải là người trực tiếp phát tán.",
+              "highlight": null
+            },
+            "D": {
+              "text": "Kịp thời cung cấp thông tin liên quan đến bảo vệ an ninh mạng và thực hiện yêu cầu của cơ quan có thẩm quyền; không cản trở lực lượng bảo vệ an ninh mạng hoặc vô hiệu hóa trái phép biện pháp bảo vệ.",
+              "highlight": "yellow"
+            }
+          },
+          "correct_answer": "D",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án D. Khoản 3, 4 Điều 42 và khoản 6 Điều 7: phải phối hợp, không cản trở.\nNguồn [ANM]: Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        },
+        {
+          "number": 10,
+          "question": "Công ty X bị xử phạt tiền do vi phạm hành chính về bảo vệ môi trường. Theo Luật Xử lý vi phạm hành chính năm 2012 (đã được sửa đổi, bổ sung), mức phạt tiền đối với tổ chức bằng bao nhiêu lần mức phạt tiền đối với cá nhân về cùng một hành vi vi phạm?",
+          "options": {
+            "A": {
+              "text": "Bằng 03 lần mức phạt tiền đối với cá nhân.",
+              "highlight": null
+            },
+            "B": {
+              "text": "Bằng mức phạt tiền đối với cá nhân.",
+              "highlight": null
+            },
+            "C": {
+              "text": "Bằng 2 lần mức phạt tiền đối với cá nhân.",
+              "highlight": "yellow"
+            },
+            "D": {
+              "text": "Bằng 1,5 lần mức phạt tiền đối với cá nhân. Rà soát ngày 01/11/2026. Giữ nguyên nội dung và định dạng phần đề gốc; chỉ tô màu đáp án, đánh dấu câu cần xác minh và thêm chú thích. Phụ lục này nằm sau toàn bộ 5 bộ đề. Nền vàng, chữ đen: phương án đã đối chiếu với nguồn pháp luật. Số câu gạch chân kép và dấu ?: chưa đủ căn cứ đối chiếu văn bản nội bộ, chưa chốt đáp án. Phần giải thích từng câu nằm trong Chú thích của Word. 14 câu cần bản gốc quy định nội bộ Công văn 563/CT-TH: bộ 01 câu 2; bộ 03 câu 2; bộ 04 câu 2; bộ 05 câu 2. Công văn 5566/HV-VP: bộ 01 câu 6; bộ 02 câu 6; bộ 03 câu 7; bộ 04 câu 6; bộ 05 câu 7. Thông báo 302-TB/VP: bộ 01 câu 10; bộ 02 câu 9; bộ 03 câu 9. Công văn 50/VP-TT ngày 18/01/2024: bộ 02 câu 2; bộ 04 câu 9. Các nguyên tắc pháp luật chung có thể giúp nhận diện một số phương án hợp lý, nhưng không chứng minh nội dung của công văn nội bộ. Đặc biệt, không suy đoán tỷ lệ ra ngoài, giờ dùng điện thoại, chế tài, số thiết bị và địa điểm nhận hàng. Những điểm cần lưu ý Bộ 01 câu 9: ngưỡng 150 triệu đồng áp dụng từ 01/7/2026. Bộ 02 câu 3: khung hình phạt đã bỏ tử hình. Bộ 05 câu 6: cấp đổi trong 02 năm trước tuổi 25 nên dùng đến mốc 40 tuổi. Bộ 03 câu 5: D là phương án phù hợp nhất trong bốn lựa chọn. Khi áp dụng phải phân biệt thẩm quyền Bộ Công an, Bộ Quốc phòng và Ban Cơ yếu Chính phủ theo Điều 11; không hiểu mọi hệ thống đều do Bộ Công an chứng nhận. Mã trong Chú thích tương ứng các nguồn dưới đây. Nhấn “Mở nguồn” để xem văn bản hoặc nội dung được cơ quan nhà nước công bố. Các nguồn này không thay thế bốn văn bản nội bộ còn thiếu. [XLVPHC] Luật Xử lý vi phạm hành chính, bản hợp nhất 63/VBHN-VPQH năm 2025; Điều 5 và Điều 23. Mở nguồn [ANM] Luật An ninh mạng số 116/2025/QH15; hiệu lực từ 01/7/2026. Mở nguồn [DS] Bộ luật Dân sự số 91/2015/QH13; Điều 22, 466, 468 và 651. Mở nguồn [SQ] Luật số 52/2024/QH15 sửa đổi Luật Sĩ quan; khoản 2 Điều 1 sửa Điều 13. Mở nguồn [PCCC] Luật Phòng cháy, chữa cháy và cứu nạn, cứu hộ số 55/2024/QH15; Điều 6 và Điều 8. Mở nguồn [PCTN] Luật Phòng, chống tham nhũng, bản hợp nhất năm 2026; Điều 35 và Điều 65. Mở nguồn [HN] Luật Hôn nhân và gia đình, bản hợp nhất 121/VBHN-VPQH năm 2025; Điều 8 và Điều 16. Mở nguồn [HS] Bộ luật Hình sự, bản hợp nhất 135/VBHN-VPQH năm 2025; Điều 22 và Điều 194. Mở nguồn [NVQS] Luật Nghĩa vụ quân sự năm 2015; Điều 30, giải đáp của Cổng TTĐT Hà Nội. Mở nguồn [KL] Thông tư 143/2023/TT-BQP; các hình thức kỷ luật hạ sĩ quan, binh sĩ. Mở nguồn [KL42] Thông tư 143/2023/TT-BQP; Điều 42 về đánh bạc, cho vay nặng lãi. Mở nguồn [TTHS] Bộ luật Tố tụng hình sự, bản hợp nhất 104/VBHN-VPQH năm 2025; Điều 147. Mở nguồn [CC] Luật Căn cước số 26/2023/QH15; Điều 19, 21 và 26. Mở nguồn [VK] Luật Quản lý, sử dụng vũ khí, vật liệu nổ và công cụ hỗ trợ số 42/2024/QH15; Điều 2, 4, 5 và 31. Mở nguồn [TTDS] Bộ luật Tố tụng dân sự; khoản 1 Điều 190. Mở nguồn [BHXH] Luật Bảo hiểm xã hội số 41/2024/QH15; khoản 1 Điều 64. Mở nguồn [TT81] Thông tư 81/2025/TT-BQP; trách nhiệm khi sử dụng mạng xã hội. Mở nguồn [MT] Nghị định 45/2022/NĐ-CP; khoản 2 Điều 6, tài liệu giải đáp của Bộ quản lý chuyên ngành. Mở nguồn",
+              "highlight": null
+            }
+          },
+          "correct_answer": "C",
+          "answer_status": "verified_per_source_answer_table",
+          "explanation": "Đáp án C. Chọn C. Khoản 2 Điều 23 quy định mức tối đa đối với tổ chức gấp 02 lần cá nhân. Với cùng hành vi môi trường, khoản 2 Điều 6 Nghị định 45/2022/NĐ-CP quy định mức phạt tổ chức bằng 02 lần cá nhân. Nguồn bổ sung: [MT].\nNguồn [XLVPHC]: Luật Xử lý vi phạm hành chính, bản hợp nhất 63/VBHN-VPQH năm 2025; Điều 5 và Điều 23. Xem liên kết trong danh mục nguồn cuối tài liệu.",
+          "answer_note": "Phương án đúng theo bảng đáp án và được đánh dấu nền vàng."
+        }
+      ]
+    }
+  ]
+}
